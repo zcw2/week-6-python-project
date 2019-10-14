@@ -12,7 +12,11 @@ Note that a longer name will ruin the text art, as lines will begin to intermix 
 
 -----------------------------------------------------
 
-If you wish to contribute to the program, we ask you create a pull request with your updated files, only including the changed or added files. We appreciate all attempts to help improve upon the project, but note that not all pull requests may be accepted, and it is our liberty as to what is accepted into the main project.
+If you wish to contribute to our program, we ask that you create a pull request with your updated files, only including the changed or added files. We appreciate all attempts to help improve upon the project, but note that not all pull requests may be accepted, and it is our liberty as to what is accepted into the main project.
+
+We do ask all users contributing to or interacting with our project follow our code of conduct. We adapted the code of conduct from the TwitterOSS community because it encouraged a welcoming environment and warned of the punishments for violating said environment. In addition, it lays out the procedure for contacting us, the project managers, with any issues in the community.
+
+As per our chosen license (MIT License), you could also choose to modify and/or redistribute the project on your own terms, so long as you include the license provided. We chose this license to encourage any user to experiment with our code in any way that we wish, and also because it was simple in terms of legalese and kept jargon to a minimum, helping future users to understand the meaning of the license with little to no issue.
 
 -----------------------------------------------------
 
