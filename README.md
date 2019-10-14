@@ -18,4 +18,4 @@ If you wish to contribute to the program, we ask you create a pull request with 
 
 Thanks! Contact us:
  - Jake Baumbaugh - jtb122@pitt.edu
- - Zach Wells - zcw@pitt.edu
+ - Zach Wells - zcw2@pitt.edu
